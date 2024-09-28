@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there!
+
+- 🔭 I’m currently working on a Flutter app for ESP32 sensors or any kind of sensor (similar to Home Assistant)
+- 👯 I’m looking to collaborate on any mobile project
+- 💬 Ask me about Terraform, Flutter, C# (Unity) or PHP
+- 📫 How to reach me: via profile's mail
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eramos&theme=dark)](https://git.io/streak-stats)
+
