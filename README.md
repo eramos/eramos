@@ -22,5 +22,13 @@ Hello there!
 - 💬 Ask me about Terraform, Flutter, C# (Unity) or PHP
 - 📫 How to reach me: via profile's mail
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eramos&theme=dark)](https://git.io/streak-stats)
+## GitHub stats
 
+### Overview
+
+![Overview](https://raw.githubusercontent.com/eramos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Languages](https://raw.githubusercontent.com/eramos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+### Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eramos&theme=dark)
