@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there!
+I'm Eduardo! A DevOps Engineer from Madrid, Spain. 
 
 - 🔭 I’m currently working on a Flutter app for ESP32 sensors or any kind of sensor (similar to Home Assistant)
 - 👯 I’m looking to collaborate on any mobile project
