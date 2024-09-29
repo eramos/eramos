@@ -19,7 +19,7 @@ I'm Eduardo! A DevOps Engineer from Madrid, Spain.
 
 - 🔭 I’m currently working on a Flutter app for ESP32 sensors or any kind of sensor (similar to Home Assistant)
 - 👯 I’m looking to collaborate on any AI or mobile project
-- 💬 Ask me about Terraform, Azure DevOps, Flutter, C# (Unity) or PHP
+- 💬 Ask me about Azure, Azure DevOps, Terraform, Flutter, C# (Unity) or PHP
 - 📫 How to reach me: via profile's mail
 
 ## GitHub stats
