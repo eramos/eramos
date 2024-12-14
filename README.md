@@ -29,6 +29,8 @@ I'm Eduardo! A DevOps Engineer from Madrid, Spain.
 ![Overview](https://raw.githubusercontent.com/eramos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Languages](https://raw.githubusercontent.com/eramos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+<!-- 
 ### Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=eramos&theme=dark)
+-->
