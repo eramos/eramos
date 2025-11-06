@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eduardo! A DevOps Engineer from Madrid, Spain. 
+I'm Eduardo! A passionate engineer from Madrid, Spain.
 
-- 🔭 I’m currently working on a Flutter app for ESP32 sensors or any kind of sensor (similar to Home Assistant)
-- 👯 I’m looking to collaborate on any AI or mobile project
-- 💬 Ask me about Azure, Azure DevOps, Terraform, Flutter, C# (Unity) or PHP
-- 📫 How to reach me: via profile's mail
+- 🔭 I’m currently working on: my sensor setup for Home Assistant, and a custom mobile app (similar to Home Assistant).
+- 👯 I’m looking to collaborate on: any AI-related project.
+- 💬 Ask me about: Azure, Azure DevOps, Terraform, ESP32/Arduino sensors, Flutter, or C# (Unity).
+- 📫 How to reach me: via the email on my profile.
 
 ## GitHub stats
 
